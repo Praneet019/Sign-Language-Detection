@@ -15,7 +15,7 @@ requirements.txt file listing required Python packages
 
 This is the custom dataset I created and used for this model. Ensure you make changes in your code with the path you save the dataset and other folders.
 
-You can access the dataset here: 
+You can access the dataset here: https://drive.google.com/drive/folders/1JyA16lazveK0GuKK6euiQVTSVnppS3DX?usp=sharing
 
 ## Features
 
