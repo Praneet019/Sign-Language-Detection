@@ -11,6 +11,12 @@ model folder containing the trained model file sign_model.h5 and the label_encod
 
 requirements.txt file listing required Python packages
 
+## Dataset
+
+This is the custom dataset I created and used for this model. Ensure you make changes in your code with the path you save the dataset and other folders.
+
+You can access the dataset here: 
+
 ## Features
 
 Real-time sign prediction with webcam
